@@ -1,0 +1,286 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The building, beautifying, or repairing of Churches, an act of religion A sermon preached in the parish church of St. Helens, London, on Sunday, August 8. 1697. At the first opening of that Church after it had been repair'd. By Tho. Willis, M.A. vicar of St. Helens.</title>
+            <author>Willis, Thomas, 1651 or 2-1701.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66519</idno>
+            <idno type="STC">Wing W2857</idno>
+            <idno type="STC">ESTC R219576</idno>
+            <idno type="EEBO-CITATION">99831037</idno>
+            <idno type="PROQUEST">99831037</idno>
+            <idno type="VID">35499</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66519)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35499)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2087:02)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The building, beautifying, or repairing of Churches, an act of religion A sermon preached in the parish church of St. Helens, London, on Sunday, August 8. 1697. At the first opening of that Church after it had been repair'd. By Tho. Willis, M.A. vicar of St. Helens.</title>
+                  <author>Willis, Thomas, 1651 or 2-1701.</author>
+               </titleStmt>
+               <extent>[4], 27, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for John Southby, at the Harrow in Cornhil,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M DC XCVII. [1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes a final advertisement page.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35499:1" rendition="simple:additions"/>
+            <p>
+               <hi>The Building, Beautifying, or Repairing of Churches, an Act of Religion.</hi>
+            </p>
+            <p>A SERMON Preached in the Pariſh Church of <hi>St. HELENS, London,</hi> On <hi>Sunday, Auguſt</hi> 8. 1697.</p>
+            <p>At the firſt opening of that Church after it had been Repair'd.</p>
+            <p>By <hi>Tho. Willis,</hi> M.A. Vicar of <hi>St. Helens.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Southby,</hi> at the <hi>Harrow</hi> in <hi>Cornhil.</hi> MDCXCVII.</p>
+            <pb facs="tcp:35499:2" rendition="simple:additions"/>
+            <pb facs="tcp:35499:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:35499:3"/>
+            <pb facs="tcp:35499:3"/>
+            <head>To my Worthy and Loving Friends, the Pariſhi<g ref="char:EOLhyphen"/>oners of <hi>St. Helens.</hi>
+            </head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>I Heartily bleſs Almighty God for that Station, which, by his Provi<g ref="char:EOLhyphen"/>dence, I have amongſt you, where I have no need to rack my Invention to ſtudy Arguments of Perſwaſion, but ra<g ref="char:EOLhyphen"/>ther proper terms of Praiſe: you gene<g ref="char:EOLhyphen"/>rally doing of your duty, without giving me time or opportunity as your Miniſter, to recommend it to you.</p>
+            <p>This laſt Act of yours which occaſion<g ref="char:EOLhyphen"/>ed this enſuing diſcourſe, which is now humbly preſented to you, will, I doubt not, make you famous and eminent for your Piety and Zeal, throughout this great and populous City.</p>
+            <pb facs="tcp:35499:4"/>
+            <p> That ſuch a ſmall number of Perſons (as you are) ſhould repair ſuch an old, large, decay'd Church, at your own pro<g ref="char:EOLhyphen"/>per coſt and charges, without aſſiſtance from the Publick, muſt needs redound much unto your honour in the Eyes of your fellow-Citizens.</p>
+            <p>God Almighty grant, that this, and all your other Works of Charity and Religion, (which are many) may be re<g ref="char:EOLhyphen"/>warded an hundred fold in this World, and in the World to come with Eternal Life.</p>
+            <p>This is, and ſhall be, the daily and hearty Prayer of</p>
+            <closer>
+               <salute>Gentlemen,</salute> 
+               <signed>Your unworthy, But moſt Faithful Miniſter, and Servant, <hi>Tho. Willis.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:35499:4"/>
+            <epigraph>
+               <q>
+                  <bibl>1 Chron XXII 5.</bibl>
+                  <p>The houſe that is to be builded for the Lord muſt be exceed<g ref="char:EOLhyphen"/>ing Magnifical, of Fame and of Glory throughout all Coun<g ref="char:EOLhyphen"/>tries.</p>
+               </q>
+            </epigraph>
+            <p>REaſon is the diſtinctive Cha<g ref="char:EOLhyphen"/>racter of Man, and Religion is his Crown and Glory. Religion (which is the Holy Worſhip of God) is the great end of man's Life and Being in the world. By Religion it is, that man gives to God that Glo<g ref="char:EOLhyphen"/>ry and Honour which is due to his great Name. Now God is a Being infi<g ref="char:EOLhyphen"/>nite in all Excellencies and Perfections; and by a hearty acknowledgment of his infinite Excellencies, man gives
+<pb n="2" facs="tcp:35499:5"/>Honour to God. But then this ac<g ref="char:EOLhyphen"/>knowledgment muſt be manifeſted by agreeable Actions. God hath gi<g ref="char:EOLhyphen"/>ven man a body and a ſoul, and he ought to be, and will be honour'd by both. Man rightly honours God by an internal eſtimation of his ex<g ref="char:EOLhyphen"/>cellencies, demonſtrated by his ex<g ref="char:EOLhyphen"/>ternal Actions. And amongſt theſe actions ſure not any more tends to the divine honour, than the having of a houſe erected to the Lord, eſ<g ref="char:EOLhyphen"/>pecially ſuch a houſe, as by its am<g ref="char:EOLhyphen"/>plitude, ſplendor, and beauty, may be a viſible demonſtration of a very high eſteem of God; and ſuch was the deſign of holy <hi>David,</hi> here men<g ref="char:EOLhyphen"/>tioned in my Text, for the houſe to be built by his Son <hi>Solomon. The houſe that is to be builded,</hi> &amp;c.</p>
+            <p>Here in theſe words we have;</p>
+            <p n="1">1. Mention made of a houſe to be built for the Lord, <hi>i. e.</hi> for the name, the honour and ſervice of the moſt high God.</p>
+            <p n="2">
+               <pb n="3" facs="tcp:35499:5"/> 2dly, We have an account given us of the excellency and pre-emi<g ref="char:EOLhyphen"/>nence of this houſe above other Houſes <hi>The houſe that is builded for the Lord muſt be exceeding magnifi<g ref="char:EOLhyphen"/>cal; i. e.</hi> it muſt be magnificent to the height: and then laſtly</p>
+            <p n="3">3dly, We have the reaſon or end of this Magnificence aſſigned; it muſt be for a name, renown, and glory throughout all Lands, through<g ref="char:EOLhyphen"/>out the whole habitable World. That thereby the name of God, and the fame of his excellent Greatneſs might be extended to the ends of the Farth.</p>
+            <p>The greateſt works of men ſhould be deſigned to the higheſt honour of God. Man cannot exceed in mag<g ref="char:EOLhyphen"/>nificence, in thoſe things that tend to the honour of the Divine Majeſty. Man ſhould not ſatisfy himſelf in bringing a ſmall tribute of praiſe to his Maker: But he ſhould endea<g ref="char:EOLhyphen"/>vour to lift up his glory to the Hea<g ref="char:EOLhyphen"/>vens,
+<pb n="4" facs="tcp:35499:6"/>and to extend his honour to the ends of the Earth.</p>
+            <p>But the one thing, which, upon this our firſt meeting in this place, after the great coſt you have been at, for the repairing, beautifying and adorning this houſe, (which is ſet a<g ref="char:EOLhyphen"/>part for the honour of God Almigh<g ref="char:EOLhyphen"/>ty's Name) I ſhall now endeavour in a ſhort diſcourſe to demonſtrate in this, that it is a proper act of natu<g ref="char:EOLhyphen"/>ral, and rational Religion to have a houſe, a ſtately and magnificent houſe, to the honour and glory of God, which will lead me in the cloſe of my diſcourſe, to take notice of, and commend your piety and zeal, which has rendered this place, we now once more are aſſembled in, ſuch a one.</p>
+            <p>Religion is the holy Worſhip of God. <hi>God is a Spirit, and</hi> (as our bleſſed Saviour told me woman of <hi>Samaria) is to be worſhipped in ſpirit and in truth.</hi>
+               <note place="margin">Joh. 4.23.</note> And this worſhip is
+<pb n="5" facs="tcp:35499:6"/>acceptable to him, as well in a Clay Cottage, as in a Marble Palace. Three Wiſe men or Kings,<note place="margin">Matt. 2.</note> (as ſome will have them) we read worſhipp'd Chriſt in a Stable; and ſure it was no leſs acceptable than if they had done it in a Glittering Court Nay, give me leave to ſay, that it was a higher Act of Religion in them to adore Chriſt in a Stable, lying in a Manger, than it would have been to have done ſo, had they found him in a Royal Palace, ſitting in Princely State upon a Throne of Gold. Though when theſe Princely Sages of the Eaſt came to him, there was no appearance of any hu<g ref="char:EOLhyphen"/>mane Greatneſs in him; yea, not<g ref="char:EOLhyphen"/>withſtanding the extraordinary mean<g ref="char:EOLhyphen"/>neſs of his Condition, they acknow<g ref="char:EOLhyphen"/>ledg'd his Royalty and Divinity with humble Homage and Adoration: They Addreſs to him as a King, they Worſhip him as a God.</p>
+            <pb n="6" facs="tcp:35499:7"/>
+            <p> But yet after all, I muſt ſay, that though this Spiritual Worſhip be acceptable to God in every Place, as being indeed the very Soul of Re<g ref="char:EOLhyphen"/>ligion; it muſt not be without a Bo<g ref="char:EOLhyphen"/>dy. I mean it muſt demonſtrate it<g ref="char:EOLhyphen"/>ſelf (when occaſion is offered) by ſome viſible Acts to the Honour of God: and ſo it is an eminent Act of Religion, to have a Stately and Magnificent Houſe to the glory of his Name.</p>
+            <p>God we all know is an Inviſible Power, an Immenſe Being. <hi>The moſt High dwelleth not in Temples made with hands,</hi> (as ſaith the Prophet) <hi>Heaven is my Throne, and Earth my Footſtool; what Houſe will ye build me, ſaith the Lord? or what is the place of my Reſt? Hath not my Hand made all theſe things?</hi> Yet to this the Apoſtle premiſes, <hi>Solomon built him a Houſe,</hi> as you find <hi>Acts 7. from verſe 47th to the 50th,</hi> And our Bleſſed Saviour ſufficiently vindicated the
+<pb n="7" facs="tcp:35499:7"/>Honour of his Fathers Houſe, by ſcourging the Buyers and Sellers out of the Courts of the Temple, <hi>Matt.</hi> 21.12, 13.</p>
+            <p>To have a Stately, Beautiful, and well adorned Houſe to the Honour of God, for a Renown and Glory amongſt men, is a proper Act of Religion: an Act of Religion, I ſay, not of Jewiſh, Paganiſh, or Popiſh Superſtition; but of Natural, Ratio<g ref="char:EOLhyphen"/>nal and Real Religion. Which is no leſs proper and agreeable to Chri<g ref="char:EOLhyphen"/>ſtians under the Goſpel, than to ho<g ref="char:EOLhyphen"/>ly and good men under the Law.</p>
+            <p>This I ſhall endeavour to clear and prove, 1. By the Nature and Reaſon of the thing; 2dly, By its agreeableneſs to the Nature and Rea<g ref="char:EOLhyphen"/>ſon of man; and 3dly, By the Ap<g ref="char:EOLhyphen"/>probation and Acceptance of God.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, then, I ſay, to have a State<g ref="char:EOLhyphen"/>ly, Beautiful, and well adorned Houſe (or Church, call it which you will) to the Honour of God,
+<pb n="8" facs="tcp:35499:8"/>for a Renown and Glory amongſt men, appears to be a proper Act of Religion, by the Nature and Reaſon of the thing. What is Religion, but the right Worſhip of the only true God? It is a giving him the Ho<g ref="char:EOLhyphen"/>nour due to his great name, by an acknowledgment of his infinite Ex<g ref="char:EOLhyphen"/>cellencies. And this acknowledg<g ref="char:EOLhyphen"/>ment muſt be open and viſible (as it were) to the Eyes of the World, by ſome eternal Temſtimonies and Actions. Thus in <hi>Levit.</hi> 10.3. we read that the Lord ſpake, ſaying, <hi>I will be ſanctified in them that come nigh me, and before all the people I will be glorified.</hi> Now this muſt ei<g ref="char:EOLhyphen"/>ther be done by words, as in Prayers or Praiſes; or by ſome certain acti<g ref="char:EOLhyphen"/>ons and geſtures.</p>
+            <p>And indeed by the ſelf-ſame Acti<g ref="char:EOLhyphen"/>ons by which we pay our Reſpects, and give Honour to men, we muſt teſtifie our acknowledgments of the Divine Excellencies to the Honour
+<pb n="9" facs="tcp:35499:8"/>of God, as particularly by uncover<g ref="char:EOLhyphen"/>ing the Head, and bowing the Knee.</p>
+            <p>Now how can a Subject be ſup<g ref="char:EOLhyphen"/>poſed more to honour his Prince and Soveraign, than by erecting a mag<g ref="char:EOLhyphen"/>nificent Pallace, or repairing and beautifying a decayed ſtately ſtruct<g ref="char:EOLhyphen"/>ure to his Honour? And thus may a man honour the great King of Kings whoſe Subject he is, the moſt high God I mean, by either build<g ref="char:EOLhyphen"/>ing, beautifying, or repairing a Tem<g ref="char:EOLhyphen"/>ple, or Pallace, (as <hi>David</hi> calls it, 1 <hi>Cron.</hi> 29.1. when he ſays, <hi>the Pal<g ref="char:EOLhyphen"/>lace is not for man but for the Lord God</hi>) to the Glory and Honour of his great Name. By ſuch acts as theſe a man makes a viſible, and practical acknowledgment of the Majeſty, Greatneſs, and Royal digni<g ref="char:EOLhyphen"/>ty of God. He that acknowledges the divine Excellencies in words, (ſuch as Praiſes are) truly honours God, ac<g ref="char:EOLhyphen"/>cording to that of the Pſalmiſt,
+<pb n="10" facs="tcp:35499:9"/>
+               <hi>Pſal.</hi> 50.23. <hi>Whoſo offereth praiſe, glo<g ref="char:EOLhyphen"/>rifieth me;</hi> but he that doth ſuch Works as theſe, by doing ſo may be ſaid to honour God, much more than the other, who only chants forth his Praiſes.</p>
+            <p>A ſtately, and well adorned Palace is for the honour of the King: and a beautiful Temple, as that of <hi>Solomons</hi> formerly was, is for the honour of Al<g ref="char:EOLhyphen"/>mighty God Praiſes we know are but cheap acknowledgments; but he that repairs an old decay'd Temple to God, (ſuch as we all know this lately was) cannot be ſaid to honour him with that which coſts him nothing. The Pious man by his Praiſes acknow<g ref="char:EOLhyphen"/>ledges God to be a good God; but he that does this latter, acknowledges him to be a great King.</p>
+            <p>And thus I have ſhewed you how to have a ſtately, magnificent, and well adorned Houſe, wherein to ſerve God, and to attend upon all the or<g ref="char:EOLhyphen"/>dinances of his Worſhip, is an act of
+<pb n="11" facs="tcp:35499:9"/>natural, rational, and real Religion; from the nature and reaſon of the thing, I proceed now then to prove it to be ſo.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2dly, By its agreeableneſs to the Nature and Reaſon of man. Now this plainly appears in that, in all Na<g ref="char:EOLhyphen"/>tions of the World, they who have apprehended an adorable Divinity, have built a magnificent Temple to the honour of the God or Goddeſs whom they have adored; and from time to time have adorned and beau<g ref="char:EOLhyphen"/>tified ſuch Temples, thus built with the choiceſt and richeſt of their Trea<g ref="char:EOLhyphen"/>ſures.</p>
+            <p>Such was the Temple of <hi>Jupiter</hi> in a certain City of <hi>Myſia,</hi>
+               <note place="margin">Cizicus.</note> the Pillars of which were four Cubits thick, and in height fifty: The whole was of poliſhed ſtone, and each ſtone was joined to the other with no meaner a cement than a line of Gold. But that which Queen <hi>Semiramis</hi> erected to the ſame ſuppoſed God in <hi>Babilou,</hi>
+               <pb n="12" facs="tcp:35499:10"/>was far more ſumptuous and coſtly, and richly beautified and adorned with Gold and Silver. The Temple of <hi>Di<g ref="char:EOLhyphen"/>ana</hi> was twenty years in building, and above one hundred and fifty in adorn<g ref="char:EOLhyphen"/>ing. The temple of <hi>Peace</hi> in <hi>Rome</hi> was built by <hi>Veſpaſian,</hi> three hundred Foot in length, and in breadth two hundred; and all the rarieties of the golden Houſe of <hi>Nero,</hi> were be<g ref="char:EOLhyphen"/>ſtowed as Ornaments for this Tem<g ref="char:EOLhyphen"/>ple.</p>
+            <p>Now, though theſe Perſons, who built ſuch ſtately Fabricks, and ſo richly adorned them to the honour of their ſuppoſed Divinities, groſsly erred in the object of their Worſhip; yet by this it is apparent that it is a<g ref="char:EOLhyphen"/>greeable to the dictate of Nature, and conſonant to the reaſon of Man, to have a Magnificent and Beautiful Houſe or Temple to the Divinity we adore, as an expreſſion of that Hon<g ref="char:EOLhyphen"/>our which is due from us to God.</p>
+            <pb n="13" facs="tcp:35499:10"/>
+            <p> It is not conſiſtent with the high and honourable thoughts which men ought to have of God to be content to attend the ſolemnities of his Holy Service, in a mean and ſordid Houſe. He is not worthy of the honourable Title of God Almighty's Servant, who hath leſs regard to that Houſe which is dedicated to his Service and Honour, than he hath to that of his own Dwelling and Abode; and can willingly lay out his Wealth for the furniſhing and adorning the lat<g ref="char:EOLhyphen"/>ter, and be well ſatisfied, though the former lies in a deſolate and ruinous condition.</p>
+            <p>The Nature of Man cannot in the moſt corrupted ſtate but be ſo inge<g ref="char:EOLhyphen"/>nuous, as to dictate this Truth; that that Being, who gives the beſt, moſt certainly does deſerve the beſt. So that if God gives the beſt Bleſ<g ref="char:EOLhyphen"/>ſings to us, he deſerves the beſt re<g ref="char:EOLhyphen"/>turns from us. What matter is it if we offer our earthly Treaſures to
+<pb n="14" facs="tcp:35499:11"/>him, from whom we expect Grace here, and everlaſting Glory when we go hence?</p>
+            <p>It is true, God is not taken with any ſhining or beautiful Adorn<g ref="char:EOLhyphen"/>ments as men are; but yet it is very meet and fitting that by ſuch things as theſe we ſhould teſtifie our high eſteem of him, and great Love to him. That man who hath a due apprehenſion of the Greatneſs and Majeſty of God, and of his mercy and goodneſs to man, will think no coſt too great, or Ornament at any time too rich, for that Houſe which is ſet apart for the Honour of his Name.</p>
+            <p>That this is not a ſtranger or ſcreed Conception, but the natural thought and ſentiment of Mankind, is further apparent, in that the famous Tem<g ref="char:EOLhyphen"/>ple of <hi>Solomon</hi> formerly was built, according to the dictates of Natural Reaſon in King <hi>David,</hi> for it was in the mind of that Pious Prince to do
+<pb n="15" facs="tcp:35499:11"/>this, before the will of God con<g ref="char:EOLhyphen"/>cerning it was declared and made known. For it is ſaid 1 <hi>Kings</hi> 8.17. that it was <hi>in the heart of David to build a Houſe for the name of the Lord God of Iſrael.</hi> And yet if you turn to 2 <hi>Sam.</hi> 7.7. You find that <hi>in time paſt God never had ſpoke a word to any of the Iribes of Iſrael, ſaying, why build ye me not a Houſe of Caedar?</hi>
+            </p>
+            <p>So that the firſt contrivance of this was, the natural product of that ho<g ref="char:EOLhyphen"/>ly man's own Breaſt, which renders the Action agreeable to a man's na<g ref="char:EOLhyphen"/>tural reaſon and underſtanding. And ſeeing this was no act of Ceremoni<g ref="char:EOLhyphen"/>al Service, it is equally agreeable to the times of the Goſpel. And af<g ref="char:EOLhyphen"/>ter the Abolition of Legal Sacrifices, the Apoſtles made uſe of the Temple thus built for evangelical ſervices; for as we read, <hi>Acts</hi> 2.46. <hi>They con<g ref="char:EOLhyphen"/>tinued daily with one accord in the Temple.</hi>
+            </p>
+            <pb n="16" facs="tcp:35499:12"/>
+            <p> But as thus to erect or beautify a Houſe to the Honour of God, wherein to perform the offices and ſervices of Religious Worſhip, appears to be agreeable to the nature and reaſon of man, ſo</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3dly, It may be evidenced to be a proper act of Religion, by the ap<g ref="char:EOLhyphen"/>probation and acceptance of God. Thus we read in 1 <hi>King</hi> 8.18. that the Lord ſaid unto <hi>Dadid, Whereas it was in thy Heart to build a Houſe un<g ref="char:EOLhyphen"/>to my Name, thou didſt well that it was in thine heart;</hi> and if you peruſe the 2 <hi>Sam. 7. throughout;</hi> you will find God by his Prophet <hi>Nathan,</hi> ap<g ref="char:EOLhyphen"/>proving of <hi>David</hi>'s Religious pur<g ref="char:EOLhyphen"/>poſe, and promiſing great Benefits and Bleſſings to his ſeed upon that account.<note place="margin">
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. Antiq. Jud. 15. Cap. 14.</note> And it is very memorable what <hi>Joſephus</hi> writes, that during the time of the building of this Tem<g ref="char:EOLhyphen"/>ple, (or the repairing it rather and eight years in doing) it never rained by day, but by night only, ſo that
+<pb n="17" facs="tcp:35499:12"/>the Workmen were not lett or hin<g ref="char:EOLhyphen"/>dered. God who commands the Clouds, by thus ordering and diſpo<g ref="char:EOLhyphen"/>ſing of the ſhowers of Heaven, approv<g ref="char:EOLhyphen"/>ing of the re-edifying of his Houſe on Earth.</p>
+            <p>The Temple I grant indeed was typical of Chriſt, and Prayers were directed towards it, and ſacrifices to be offered only at it. But the build<g ref="char:EOLhyphen"/>ing of it, I ſay, was a proper act of Natural Religion, for it was as (word<g ref="char:EOLhyphen"/>ed in my Text) for the honour of the moſt high God.</p>
+            <p>I know <hi>Origen</hi> ſays, the Chriſtians have no Temples, and <hi>Arnobius,</hi> we, <hi>i. e.</hi> Chriſtians, do not Honour God by building of Temples to him, but yet I find the word Temple was uſed by ſome Chriſtians in early days, for <hi>Ingatius</hi> tells the <hi>Magneſians,</hi> 
+               <q>All of you meet together in one place, and go as one man to the Temple of God.</q> It is true, that the generality of the Primitive Chriſtians did ſhun
+<pb n="18" facs="tcp:35499:13"/>the name of Temple, partly in re<g ref="char:EOLhyphen"/>ſpect of the typical uſe of the Tem<g ref="char:EOLhyphen"/>ple of <hi>Solomon,</hi> to which the moral ſervice was directed, and much of the Ceremonial was confined. And this upon the Account of the שכינה or divine Preſence. But now God who is every where graciouſly pre<g ref="char:EOLhyphen"/>ſent in his Church, is every where acceptably worſhipp'd.</p>
+            <p>Again, the primitive Chriſtians ge<g ref="char:EOLhyphen"/>nerally ſhunn'd the name of the Tem<g ref="char:EOLhyphen"/>ple, partly too in oppoſition to the Temples of the Heathens, in which they ſhut up the worſhipp'd their Di<g ref="char:EOLhyphen"/>vinities; whereas the Chriſtians ac<g ref="char:EOLhyphen"/>knowledged Gods immenſity, and de<g ref="char:EOLhyphen"/>clared Heaven it ſelf could not con<g ref="char:EOLhyphen"/>tain him: According to that of <hi>Acts 7.48, 49. The moſt high dwelleth not in Temples made with hands, for Hea<g ref="char:EOLhyphen"/>ven is his throne, and earth is his foot<g ref="char:EOLhyphen"/>ſtool.</hi>
+            </p>
+            <pb n="19" facs="tcp:35499:13"/>
+            <p> But though for theſe reaſons the Name of Temple was by the primi<g ref="char:EOLhyphen"/>tive Chriſtians generally avoided and ſhunned, they yet call'd their places for publick Worſhip <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Church<g ref="char:EOLhyphen"/>es, and the more ſtately ſtructures that were erected for the honour of God and the Chriſtian Religion, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Royal Palaces, acknowledg<g ref="char:EOLhyphen"/>ing by doing ſo, Gods Sove<g ref="char:EOLhyphen"/>raign Majeſty and Supreme Autho<g ref="char:EOLhyphen"/>rity, as King of the Church, which to do I hope you will allow to be a proper Act of Natural and Rati<g ref="char:EOLhyphen"/>onal Religion, and both theſe they call'd <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Houſes of God, as being dedicated to his immediate ſer<g ref="char:EOLhyphen"/>vice and honour.</p>
+            <p>The Houſe of <hi>John,</hi>
+               <note place="margin">Grot. in Acts 7.4</note> Surnamed <hi>Mark,</hi> being the place of our Savi<g ref="char:EOLhyphen"/>our's eating the laſt Paſſover, and in<g ref="char:EOLhyphen"/>ſtituting his Holy Supper, the place where the Diſciples afterward aſſem<g ref="char:EOLhyphen"/>bled, and Chriſt came to them, and where the Holy Ghoſt deſcended;
+<pb n="20" facs="tcp:35499:14"/>this Houſes, I ſay, was afterwards, made a fair Fabrick, and a famours Church, as St. <hi>Hierom,</hi> and venerable <hi>Bede,</hi> both tells us.</p>
+            <p>Under the Emperor <hi>Severus</hi> the Chriſtians began to build Churches to God, but when <hi>Dicleſian</hi> came he beat them down, thinking at one and the ſame time to demoliſh Churches, and to deſtroy the Chriſti<g ref="char:EOLhyphen"/>an Religion.<note place="margin">
+                  <hi>Taylor's</hi> life of Chriſt. p. 242.</note> 
+               <hi>Maximinus</hi> when he aſcended the Throne gave leave that the demoliſh'd Churches might be rebuilt. Upon this the Chriſtians preſently were overjoy'd, and quick<g ref="char:EOLhyphen"/>ly rais'd them to an incredible Height, and an incomparable Beau<g ref="char:EOLhyphen"/>ty.</p>
+            <p>
+               <hi>Lucian</hi> calls the Chriſtian Church <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the Golden-roofed Houſe. This we muſt ſay was more for Or<g ref="char:EOLhyphen"/>nament than Service: for the honour of God, rather than the neceſſary uſe of Mon.</p>
+            <pb n="21" facs="tcp:35499:14"/>
+            <p> The Temple, and every <hi>Baſilica,</hi> or ſtately Chriſtian Church is, pro<g ref="char:EOLhyphen"/>perly ſpeaking, a Type of that Hea<g ref="char:EOLhyphen"/>ven where the Holy Angels inceſſantly attend the moſt high God in Glory; for herein is God adored, ſo far as mans meanneſs can attain, in a way agree<g ref="char:EOLhyphen"/>able to his Greatneſs and Majeſty. Thus St. <hi>Chryſoſtom</hi> chiding his peo<g ref="char:EOLhyphen"/>ple of <hi>Antioch,</hi> for walking and talk<g ref="char:EOLhyphen"/>ing in the Church, ſays, the Church of God is not a Shop of Merchan<g ref="char:EOLhyphen"/>dize, but the place of Angels and Arch-Angels, the Court of God, and an Image of Heaven; and St. <hi>Grego<g ref="char:EOLhyphen"/>ry</hi> calls the Church <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Hea<g ref="char:EOLhyphen"/>ven on Earth.</p>
+            <p>And thus have I endeavour'd, ac<g ref="char:EOLhyphen"/>cording to my promiſe, to clear it to you, that it is a proper act of Natural and Rational Religion to have a Houſe, a ſtately, magnificent, and well adorned Houſe, or Church, to the Honour and Glory of God. And now, my Brethren, inſtead of
+<pb n="22" facs="tcp:35499:15"/>recommending your Duty to your Practice, in the cloſe of my diſcourſe. I cannot but applaud you for having done it.</p>
+            <p>How can I chooſe but commend your Piety and Zeal for the Honour of the Lord our God, evidenced in the Reparation of this (lately ruin<g ref="char:EOLhyphen"/>ous) Houſe, wherein we now are? and the Reduction of it (at your great coſt and charge) to a due de<g ref="char:EOLhyphen"/>cency and fitneſs for the uſe for which it is appointed, I mean the ſolemn Worſhip and Service of Al<g ref="char:EOLhyphen"/>mighty God? This is a work I be<g ref="char:EOLhyphen"/>lieve you are all ſatisfied was neceſſa<g ref="char:EOLhyphen"/>ry to be done, and now it is done, I muſt tell you is honourable and ac<g ref="char:EOLhyphen"/>ceptable to God.</p>
+            <p>The ſolemnity of Gods Service, and the Publick exerciſe of Religion, is certainly the moſt neceſſary and honourable Work in the whole World. It is ſo eſteemed by all Nations, as well Heathens, who
+<pb n="23" facs="tcp:35499:15"/>worſhip falſe Gods, as Chriſtians that adore the true.</p>
+            <p>The ſolemn acts of Religion are deſigned to a twofold end, which renders the publick Worſhip of God, of ſuch mighty concern to all men, and ſo very neceſſary, that nothing in the world can be more ſo, or of greater concern to any man. Now theſe are the Honour and Glory of God, and the Salvation of the Souls of men. This is the great end of mans Life and Being, and better in<g ref="char:EOLhyphen"/>deed a man had never ſeen the Light or had a Being in the World, than that neglecting the means of the Sal<g ref="char:EOLhyphen"/>vation of his Soul, he ſhould dye in his Sins, and lye in the tormenting Flames below for ever.</p>
+            <p>Now there is ſo neceſſary a con<g ref="char:EOLhyphen"/>nection of theſe two, that the one cannot poſſibly be ſeparated from the other. No man that does not give to God the Glory that is due to his
+<pb n="24" facs="tcp:35499:16"/>Name in the Duties of his Holy wor<g ref="char:EOLhyphen"/>ſhip, can ſecure the Salvation of his own Soul: For Gods glory is the great end of Mans Salvation, and therefore that man that gives not Glory to God, muſt himſelf expect no intereſt in his ſaving Mercy. God ſhould ſeem acceſſary to his own diſhonour (which is not imaginable) if he ſhould bring that man to a State of Honour and Happineſs in Heaven, who refuſes to give to him the Glory due to his Name, whilſt he is here on Earth.</p>
+            <p>But now, that man that gives glo<g ref="char:EOLhyphen"/>ry to God, by an humble attendance on the Ordinance of his ſolemn Wor<g ref="char:EOLhyphen"/>ſhip and Service, uſes the moſt pro<g ref="char:EOLhyphen"/>per means to ſecure the Salvation of his Soul; and if his Life carry not a contradiction to his Religion, he ſhall certainly be ſaved. For he that gives honour to God in the duties of his Worſhip, and gives not a lye to him<g ref="char:EOLhyphen"/>ſelf in his Life and Converſation, is
+<pb n="25" facs="tcp:35499:16"/>in the right and direct way to Hea<g ref="char:EOLhyphen"/>ven and Everlaſting Happineſs.</p>
+            <p>Now if it be thus neceſſary to give Glory to God, and to take care of the Salvation of our Souls, by a due and reverent attendance upon God in Duties of his publick and ſolemn Worſhip and Service, then it muſt needs be neceſſary that there be ſome place where we may conveniently meet for this end and purpoſe.</p>
+            <p>Now this is the place appointed for this purpoſe, this is the Houſe built for this end; but how unfit not long ſince it was for the Holy Wor<g ref="char:EOLhyphen"/>ſhip of Almighty God, your ſelves well know. But now, (to your ho<g ref="char:EOLhyphen"/>nour and praiſe be it ſpoken) it is re<g ref="char:EOLhyphen"/>duced to a due decency for ſo ſacred and ſolemn a Service, for ſo Divine and Glorious a Preſence as that of God is.</p>
+            <p>This is done like your ſelves, who I will ſay always appeared perſons of brave and generous Spirits, whenever
+<pb n="26" facs="tcp:35499:17"/>the Cauſe of God or Religion gave you an opportunity of ſhewing your ſelves. By this act of yours you have ſhew'd your fellow-Citizens how high a Regard you have for that great Majeſty, that glorious God, whom we adore.</p>
+            <p>This is Work which tends to the glory of God, the honour of Reli<g ref="char:EOLhyphen"/>gion, and the ſpecial Renown of this Pariſh. But then, my honoured and well beloved Brethren, let me, as your Miniſter, make one humble Requeſt to you, which is this: that you would let this great Work of Piety be accompany'd with the Acti<g ref="char:EOLhyphen"/>ons of a good Life, and the exerciſe of the Graces of Chriſtianity.</p>
+            <p>I would, indeed, have every Chri<g ref="char:EOLhyphen"/>ſtian Church well adorned with beau<g ref="char:EOLhyphen"/>tiful Pictures. Be not amazed, for the Pictures I mean are Pious Chri<g ref="char:EOLhyphen"/>ſtians, the lively Pictures of God and Chriſt on Earth. Nothing can be more unagreeable than the Picture
+<pb n="27" facs="tcp:35499:17"/>of the Devil in the Temple of God, and yet ſuch I will ſay, is every wick<g ref="char:EOLhyphen"/>ed man; an Abomination in the Holy Place whenever he appears there.</p>
+            <p>To conclude then, be we holy in Heart and Life, and we ſhall be companions of Angels, have Com<g ref="char:EOLhyphen"/>munion with God and Chriſt in his Holy Ordinances; and hereafter be admitted into the Temple of Glory, there to celebrate the Praiſes of our God to Eternity.</p>
+            <closer>
+               <hi>To him be Glory, Might, Majeſty, Do<g ref="char:EOLhyphen"/>minion, and Praiſe, both now and ever,</hi> Amen</closer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:35499:18"/>
+            <head>
+               <hi>Books Printed for</hi> John South<g ref="char:EOLhyphen"/>by, <hi>at the</hi> Harrow <hi>in</hi> Corn<g ref="char:EOLhyphen"/>hil.</head>
+            <list>
+               <item>1. MR. <hi>Warren</hi> againſt Dr. <hi>Burnet</hi>'s The<g ref="char:EOLhyphen"/>ory of the Earth, in 3 pts. complt.</item>
+               <item>2. His Family Devotions, containing Morn<g ref="char:EOLhyphen"/>ing and Evening Prayers.</item>
+               <item>3 The Unworthy Non-Communicant, a Treatiſe ſhewing the danger of neglecting the Bleſſed Sacrament of the Lords Sup<g ref="char:EOLhyphen"/>per, and Rectifying the miſtakes of many in this Age, with Prayers.</item>
+               <item>4 The Benefit of early Piety, fit for youth. Both by Mr <hi>Smythies</hi> of <hi>Cripplegate.</hi> Price each 1 <hi>s.</hi>
+               </item>
+               <item>5 A ſhort view of the duty of Receiving the Sacrament, with Prayers, 24<hi>s.</hi> Price ſix pence.</item>
+               <item>6 Two Sermons by Dr <hi>Blagrave</hi> before the late Queen.</item>
+               <item>7 Piligrims Guide. Price one ſhilling</item>
+               <item>8 A Treatiſe of Contentment. Price ſix pence.</item>
+               <item>9 The Charter of the City of <hi>London.</hi>
+               </item>
+               <item>10 <hi>Malbranche</hi> of Nature and Grace.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35499:18"/>
+         </div>
+      </back>
+   </text>
+</TEI>
